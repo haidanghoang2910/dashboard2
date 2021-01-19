@@ -1,0 +1,8 @@
+numpy
+math
+pandas
+matplotlib.pyplot
+sklearn.metrics
+yfinance
+sklearn.ensemble
+ipywidgets
